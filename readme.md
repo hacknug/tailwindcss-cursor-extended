@@ -1,5 +1,7 @@
 # Tailwind CSS Cursor Extended Plugin
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hacknug/tailwindcss-cursor-extended.svg)](https://greenkeeper.io/)
+
 This plugin adds all of the missing cursor utilities to Tailwind CSS.
 
 ## Installation
