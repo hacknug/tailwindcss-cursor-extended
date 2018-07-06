@@ -1,7 +1,7 @@
 {
   "name": "tailwindcss-cursor-extended",
   "version": "0.1.0",
-  "description": "Describe what this plugin does",
+  "description": "All of the missing cursor utilities for Tailwind CSS.",
   "main": "index.js",
   "repository": {
     "type": "git",
