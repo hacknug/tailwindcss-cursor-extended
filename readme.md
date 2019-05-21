@@ -1,6 +1,6 @@
 # Tailwind CSS Cursor Extended Plugin
 
-Deprecated due to Tailwind CSS supporting `cursor` as of v1.0.0.
+**Deprecated due to Tailwind CSS supporting `cursor` as of v1.0.0.**
 
 This plugin adds all of the missing cursor utilities to Tailwind CSS.
 
